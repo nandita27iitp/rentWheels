@@ -31,7 +31,6 @@
 - **Rent a Car**
 - **Modify Rent Records**
 
-
 The record of cars and rents in the car rental system is stored in the cars.json and rents.json file respectively. Moreover, the system records renter name, car number, id and rent price.
 
 This system is a small project that implements only some of the complex features of car rental service. However, one can use this project to make complex system by adding more details/properties to the records as well as features and functions to the system.
