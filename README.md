@@ -1,8 +1,21 @@
-# Car Rental System
- This is a project for Car Rental System in c++. A user can perform many kinds of management tasks to manage rent and car records like adding a new car as well as modifying and removing it. Also, users can view all rental records, check car details as well as rent and change rent details from rental records.
- The system automates the basic car rental functions to aid in the day-to-day operations of a car rental staff. Also, the goal of the system is to allow for storing details of a large number of car details and allow for add, retrieve and update details of any car. So, the car rental system using c++ utilizes [JsonCpp](https://github.com/open-source-parsers/jsoncpp) library that allows manipulating JSON values.
+<h1 align="center">RentWheels</h1>
+<h3 align="center">"Car Rental System"</h3>
 
+<p align="center">About the project</p>
+<p align="center">
+    <img src="https://img.shields.io/github/forks/nandita27iitp/rentWheels">
+    <img src="https://img.shields.io/github/stars/nandita27iitp/rentWheels"><br><br>
+ A user can perform many kinds of management tasks to manage rent and car records like adding a new car as well as modifying and removing it. Also, users can view all rental records, check car details as well as rent and change rent details from rental records.<br>
+ The system automates the basic car rental functions to aid in the day-to-day operations of a car rental staff. Also, the goal of the system is to allow for storing details of a large number of car details and allow for add, retrieve and update details of any car. <br>
+ It utilizes <a href="https://github.com/open-source-parsers/jsoncpp">JsonCpp</a> library that allows manipulating JSON values.
+</p>
 
+<p align="center">Tech Stack</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/c++-%233A63ED.svg?style=for-the-badge&logo=cplusplus&logoColor=112F94"> 
+    <img src="https://img.shields.io/badge/json-%231572B6.svg?style=for-the-badge&logo=json&logoColor=white">
+</p>
+<br>
 
 ## The basic features
 
@@ -22,3 +35,4 @@
 The record of cars and rents in the car rental system is stored in the cars.json and rents.json file respectively. Moreover, the system records renter name, car number, id and rent price.
 
 This system is a small project that implements only some of the complex features of car rental service. However, one can use this project to make complex system by adding more details/properties to the records as well as features and functions to the system.
+
